@@ -1,4 +1,4 @@
-<h1>Hi, I'm Myles, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Myles, an <a href="www.linkedin.com/in/myles-gonzalez">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/myles-gonzalez-42b805345/
+[linkedin]: www.linkedin.com/in/myles-gonzalez
